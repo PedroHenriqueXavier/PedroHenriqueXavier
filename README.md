@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm studying HTML | CSS | JavaScript
-I'm 14 years old
-I'm starting to study
+I'm studying HTML | CSS | JavaScript<br/>
+I'm 14 years old<br/>
+I'm starting to study<br/>
 
 <!--
 **PedroHenriqueXavier/PedroHenriqueXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
